@@ -9,12 +9,10 @@
 
 ### Connect with me!
 
-<div>
-
+<div style="display: inline_block">
+  
 <a href="https://www.linkedin.com/in/theylorantunes/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
 <a href="https://discord.gg/ja8nsnbPm9"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-
 <a href="https://instagram.com/tyikari"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   </div>
 
