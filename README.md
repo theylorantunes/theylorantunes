@@ -40,4 +40,4 @@ ___________________________________________________________________________
 
 __________________________________________________________________________________
 
-![Snake animation](https://github.com/theylorantunes/theylorantunes/blob/output/github-contribution-grid-snake.svg)
+
