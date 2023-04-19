@@ -37,3 +37,7 @@ ___________________________________________________________________________
 <img align="center" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"/>
 </div>
+
+__________________________________________________________________________________
+
+![Snake animation](https://github.com/theylorantunes/theylorantunes/blob/output/github-contribution-grid-snake.svg)
